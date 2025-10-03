@@ -3,6 +3,8 @@ Adapter for mounting a wide ZIFF socket on a breadboard.
 
 This is an adapter designed to mount a wide ZIFF socket with 0.1" spacing between pins and 0.6" spacing between rows (such as this one: https://www.amazon.com/dp/B0BS9LB2LM) on a standard breadboard.  Without it, the socket's very short pins tend to pop out of the breadboard.  This adapter also allows one to install extra long pins, elevating the adapter and socket above the breadboard and allowing wires to be run under it.  
 
+Kicad 8.0 and gerber files are provided.  You should be able to order the PCBs from any board house.
+
 You will need a ZIFF socket of the appropriate size and some 0.1" header pins.  Be sure to solder the header pins first!
 
 Some photos of the adapter in use:
